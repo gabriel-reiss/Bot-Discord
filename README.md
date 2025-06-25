@@ -81,5 +81,5 @@ Um bot completo para Discord focado em um sistema de tickets eficiente e ferrame
 
 ---
 
-Para dúvidas ou sugestões, abra uma issue ou entre em contato com a equipe de desenvolvimento.
+Para dúvidas ou sugestões, abra uma issue.
 
